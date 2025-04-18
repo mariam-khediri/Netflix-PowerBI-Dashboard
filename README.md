@@ -76,7 +76,7 @@ Performed in **Power Query**:
 **Mariam Khedhiri**  
 _Data Enthusiast | Power BI Learner | Aspiring Data Analyst_
 
-📫 [LinkedIn](#) 
+📫 [LinkedIn](https://www.linkedin.com/in/mariem-khediri/) 
 
 ---
 
